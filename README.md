@@ -28,7 +28,7 @@ This is the map display page:
 
 This is the search by map page:
 
-<img src="images/searchbymap.png" alt="Search by Map" weigh="300" />
+<img src="images/searchbymap.png" alt="Search by Map" height="300" />
 
 This is the user comment page:
 
