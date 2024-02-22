@@ -12,6 +12,9 @@ This repository contains the backend code for the Newcastle Tourism project. It 
  
 This is the home page:
 
+<img src="images/homepage.png" height="10">
+
+
 ![Home Page](images/homepage.png){ height=10}
 
 This is the search page:
