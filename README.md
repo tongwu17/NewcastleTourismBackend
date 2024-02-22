@@ -16,9 +16,9 @@ This is the home page:
 
 This is the search page:
 
-![Search Page](images/searchpage.png)
+![Search Page](images/search.png)
 
-This is the feature page:
+This is the function page:
 
 ![Feature Page](images/function.png)
 
