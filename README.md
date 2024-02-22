@@ -12,30 +12,27 @@ This repository contains the backend code for the Newcastle Tourism project. It 
  
 This is the home page:
 
-<img src="images/homepage.png" height="200">
-
-
-![Home Page](images/homepage.png){ height=10}
+<img src="images/homepage.png" alt="Home Page" height="200">
 
 This is the search page:
 
-![Search Page](images/search.png)
+<img src="images/search.png" alt="Search Page" height="200" />
 
 This is the function page:
 
-![Feature Page](images/function.png)
+<img src="images/function.png" alt="Function Page" height="200" />
 
 This is the map display page:
 
-![Map Display](images/mapdisplay.png)
+<img src="images/mapdisplay.png" alt="Map Display" height="200" />
 
 This is the search by map page:
 
-![Search by Map](images/searchbymap.png)
+<img src="images/searchbymap.png" alt="Search by Map" height="200" />
 
 This is the user comment page:
 
-![User Review](images/comment.png)
+<img src="images/comment.png" alt="User Review" height="200" />
 
 ## Structure
 
