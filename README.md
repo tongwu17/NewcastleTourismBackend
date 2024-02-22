@@ -36,7 +36,7 @@ Production configuration: src/main/resources/config/application-pro.yml
 
 To start in your own environment, change the database configuration.
 
-deployment: https://16.16.179.85.nip.io/  Click this link to see the deployment
+deployment: https://16.16.179.85.nip.io/   Please note that this link is currently inactive as the deployment on Amazon Web Services (AWS) has expired. For a live demo or testing purposes, the application needs to be redeployed on a suitable hosting service or run locally.
 
 ### Run
 
