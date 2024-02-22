@@ -8,6 +8,32 @@ This repository contains the backend code for the Newcastle Tourism project. It 
 - Spring Boot: An open-source Java-based framework. 
 - MySQL: A relational database management system used to store and manage the application's data persistently.
 
+## UI and App Interface Showcases
+ 
+This is the home page:
+
+![Homepage](images/homepage.png)
+
+This is the search page:
+
+![Search Page](images/searchpage.png)
+
+This is the feature page:
+
+![Feature Page](images/function.png)
+
+This is the map display page:
+
+![Map Display](images/mapdisplay.png)
+
+This is the search by map page:
+
+![Search by Map](images/searchbymap.png)
+
+This is the user comment page:
+
+![User Review](images/comment.png)
+
 ## Structure
 
 src/main/java/com/team21/attractionsGuide/controller - deal with requests and respond JSON bodies.
