@@ -1,3 +1,13 @@
+# Newcastle Tourism Backend
+
+This repository contains the backend code for the Newcastle Tourism project. It is developed using a robust technology stack including Java with Spring Boot framework, and MySQL for database management.
+
+## Technology Stack
+
+- Java: The primary programming language used for backend development.
+- Spring Boot: An open-source Java-based framework. 
+- MySQL: A relational database management system used to store and manage the application's data persistently.
+
 ## Structure
 
 src/main/java/com/team21/attractionsGuide/controller - deal with requests and respond JSON bodies.
