@@ -1,6 +1,7 @@
 # Newcastle Tourism Backend
 
-This repository contains the backend code for the Newcastle Tourism project. It is developed using a robust technology stack including Java with Spring Boot framework, and MySQL for database management.
+This repository contains the backend code for the Newcastle Tourism project. It is developed using a robust technology stack including Java with Spring Boot framework, and MySQL for database management. See https://github.com/tongwu17/NewcastleTourismFrontend for frontend of this project.
+
 
 ## Technology Stack
 
